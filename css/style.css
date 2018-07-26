@@ -210,6 +210,8 @@ body {
 
 .items li img {
   width: 100%;
+  max-width: 100%;
+  height: auto;
 
   -webkit-transition: all 0.2s linear, 1s;
   -moz-transition: all 0.2s linear, 1s;
